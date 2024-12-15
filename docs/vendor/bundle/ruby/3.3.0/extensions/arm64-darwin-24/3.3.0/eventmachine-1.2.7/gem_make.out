@@ -1,0 +1,19 @@
+current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241215-32108-1teb81 sitelibdir\=./.gem.20241215-32108-1teb81 clean
+
+current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241215-32108-1teb81 sitelibdir\=./.gem.20241215-32108-1teb81
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241215-32108-1teb81 sitelibdir\=./.gem.20241215-32108-1teb81 install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20241215-32108-1teb81
+
+current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241215-32108-1teb81 sitelibdir\=./.gem.20241215-32108-1teb81 clean
