@@ -2,11 +2,21 @@ title: ExinPool Help Center
 description: ExinPool - node service
 baseurl: ""
 url: "https://exinpool.support"  
+
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
 theme: jekyll-theme-primer
 
 # Exclude from processing
@@ -20,9 +30,6 @@ exclude:
   - README.md
   - .DS_Store
 
-defaults:
-  - scope:
-      path: ""   
-      type: "pages"
-    values:
-      order: 20
+relative_links:
+  enabled: true
+  collections: true
