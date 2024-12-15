@@ -1,0 +1,28 @@
+title: ExinPool Help Center
+description: ExinPool - node service
+baseurl: ""
+url: "https://exinpool.support"  # 添加 https:// 前缀
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/
+  - .gitignore
+  - README.md
+  - .DS_Store
+
+defaults:
+  - scope:
+      path: ""   
+      type: "pages"
+    values:
+      order: 20
