@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ExinOne 帮助中心
+title: ExinPool 帮助中心
 lang: zh
 ---
 
-# 欢迎访问 ExinOne 帮助中心
+# 欢迎访问 ExinPool 帮助中心
 
 ExinPool 是一个在 Mixin 生态为用户提供流动性的一站式解决方案。目前支持的公链有 Mixin Network（XIN）、Ethereum（ETH）、Axie Infinity（AXS）、Solana（SOL）、Polkadot（DOT）。
 
