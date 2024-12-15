@@ -8,16 +8,16 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/json-2.9.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-uotqr6 sitelibdir\=./.gem.20241215-32108-uotqr6 clean
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-xvnc17 sitelibdir\=./.gem.20241215-42938-xvnc17 clean
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/json-2.9.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-uotqr6 sitelibdir\=./.gem.20241215-32108-uotqr6
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-xvnc17 sitelibdir\=./.gem.20241215-42938-xvnc17
 compiling parser.c
 linking shared-object json/ext/parser.bundle
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/json-2.9.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-uotqr6 sitelibdir\=./.gem.20241215-32108-uotqr6 install
-/usr/bin/install -c -m 0755 parser.bundle ./.gem.20241215-32108-uotqr6/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-xvnc17 sitelibdir\=./.gem.20241215-42938-xvnc17 install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20241215-42938-xvnc17/json/ext
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/json-2.9.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-uotqr6 sitelibdir\=./.gem.20241215-32108-uotqr6 clean
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-xvnc17 sitelibdir\=./.gem.20241215-42938-xvnc17 clean

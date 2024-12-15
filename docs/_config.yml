@@ -5,9 +5,10 @@ url: "https://exinpool.support"
 
 # Build settings
 markdown: kramdown
+encoding: UTF-8
 kramdown:
   input: GFM
-  hard_wrap: false
+  syntax_highlighter: rouge
 
 plugins:
   - jekyll-feed
@@ -16,6 +17,8 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-default-layout
   - jekyll-titles-from-headings
+  - jekyll-readme-index
+  - jekyll-github-metadata
 
 theme: jekyll-theme-primer
 
@@ -33,3 +36,5 @@ exclude:
 relative_links:
   enabled: true
   collections: true
+
+repository: exinpool/exinpool-support

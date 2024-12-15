@@ -3,10 +3,10 @@ current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bu
 creating Makefile
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-ncv16c sitelibdir\=./.gem.20241215-32108-ncv16c clean
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-tvov0g sitelibdir\=./.gem.20241215-42938-tvov0g clean
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-ncv16c sitelibdir\=./.gem.20241215-32108-ncv16c
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-tvov0g sitelibdir\=./.gem.20241215-42938-tvov0g
 compiling ruby_http_parser.c
 ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
   365 |     if (nparsed < len)
@@ -16,8 +16,8 @@ compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-ncv16c sitelibdir\=./.gem.20241215-32108-ncv16c install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20241215-32108-ncv16c
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-tvov0g sitelibdir\=./.gem.20241215-42938-tvov0g install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20241215-42938-tvov0g
 
 current directory: /Users/mac/code/work/exinpool/exinpool-support/docs/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241215-32108-ncv16c sitelibdir\=./.gem.20241215-32108-ncv16c clean
+make DESTDIR\= sitearchdir\=./.gem.20241215-42938-tvov0g sitelibdir\=./.gem.20241215-42938-tvov0g clean
